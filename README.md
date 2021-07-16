@@ -1,7 +1,9 @@
 # FeatureEngineering
+## Table of Contents
+1. [Missing Variables](#1)
 
 ## Variable Characteristics
-- Missing Data 
+#### <a id='1'>Missing Data
 - Categorical Variables
 - Linear Model Assumptions - Do the variables fulfill those assumptions? 
 - Distributions - Normal, skewed, and others
